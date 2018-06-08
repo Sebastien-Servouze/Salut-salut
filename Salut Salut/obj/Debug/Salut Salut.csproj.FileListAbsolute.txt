@@ -1,0 +1,18 @@
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\bin\Debug\Salut Salut.exe.config
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\bin\Debug\Salut Salut.exe
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\bin\Debug\Salut Salut.pdb
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\Salut Salut.csprojResolveAssemblyReference.cache
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\MainWindow.g.cs
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\App.g.cs
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\Salut Salut_MarkupCompile.cache
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\Salut Salut_MarkupCompile.lref
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\MainWindow.baml
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\Salut Salut.g.resources
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\Salut_Salut.Properties.Resources.resources
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\Salut Salut.csproj.GenerateResource.cache
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\Salut Salut.csproj.CoreCompileInputs.cache
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\Salut Salut.exe
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\Salut Salut.pdb
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\bin\Debug\Newtonsoft.Json.dll
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\bin\Debug\Newtonsoft.Json.xml
+c:\users\sservouze\source\repos\Salut Salut\Salut Salut\obj\Debug\Salut Salut.csproj.CopyComplete
